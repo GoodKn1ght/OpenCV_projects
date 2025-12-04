@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="figure_detection.cpp">
+    <ClCompile Include="triangleDetection.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
